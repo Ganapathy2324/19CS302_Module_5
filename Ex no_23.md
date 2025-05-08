@@ -35,7 +35,8 @@ printf("%d %s %d %d\n",emp[i].id,emp[i].name,emp[i].age,emp[i].salary);}
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/9b6b883d-ffe9-4373-9c2e-85dc6d599007)
+![image](https://github.com/user-attachments/assets/c110c218-271d-4cb3-976b-d16505f562ee)
+
 
 
 ## Result:
