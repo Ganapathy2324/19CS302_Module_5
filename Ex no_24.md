@@ -36,7 +36,6 @@ employees[i].gross_salary = employees[i].basic_pay + employees[i].da +
 employees[i].hra;
 }
 printf("Details of the Employee:\n");
-SAVEETHA ENGINEERING COLLEGE
 for (int i = 0; i < 3; ++i) {
 printf("%d %s %.f %.f %.f %.2f\n", employees[i].empno, employees[i].dept,
 employees[i].basic_pay, employees[i].da, employees[i].hra, employees[i].gross_salary);
