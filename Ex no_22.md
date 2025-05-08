@@ -33,7 +33,8 @@ printf("Total even elements: %d",count);
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/0dd2e3cc-efa8-439a-a635-09e857a0a29e)
+![image](https://github.com/user-attachments/assets/fdc1c16a-360d-4ca8-9159-8e655986a947)
+
 
 
 ## Result:
