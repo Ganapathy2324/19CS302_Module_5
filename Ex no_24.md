@@ -47,8 +47,8 @@ return 0;
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/36b11155-c6a4-4a49-96c3-46400730056e)
 
-![image](https://github.com/user-attachments/assets/909f7e04-30a1-4e03-b32e-fdc230702edc)
 
 
 ## Result:
